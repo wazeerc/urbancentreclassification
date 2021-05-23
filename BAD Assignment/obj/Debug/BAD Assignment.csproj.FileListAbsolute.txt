@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Documents\C# Dev\C# Projects\BAD Assignment\bin\Debug\BAD Assignment.exe.config
+C:\Users\User\OneDrive\Documents\C# Dev\C# Projects\BAD Assignment\bin\Debug\BAD Assignment.exe
+C:\Users\User\OneDrive\Documents\C# Dev\C# Projects\BAD Assignment\bin\Debug\BAD Assignment.pdb
+C:\Users\User\OneDrive\Documents\C# Dev\C# Projects\BAD Assignment\obj\Debug\BAD Assignment.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\C# Dev\C# Projects\BAD Assignment\obj\Debug\BAD_Assignment.Form1.resources
+C:\Users\User\OneDrive\Documents\C# Dev\C# Projects\BAD Assignment\obj\Debug\BAD_Assignment.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\C# Dev\C# Projects\BAD Assignment\obj\Debug\BAD Assignment.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\C# Dev\C# Projects\BAD Assignment\obj\Debug\BAD Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\C# Dev\C# Projects\BAD Assignment\obj\Debug\BAD Assignment.exe
+C:\Users\User\OneDrive\Documents\C# Dev\C# Projects\BAD Assignment\obj\Debug\BAD Assignment.pdb

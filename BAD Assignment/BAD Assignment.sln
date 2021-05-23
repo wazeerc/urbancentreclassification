@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAD Assignment", "BAD Assignment.csproj", "{802DD0BD-B717-407A-835F-097F3327E5A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802DD0BD-B717-407A-835F-097F3327E5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802DD0BD-B717-407A-835F-097F3327E5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802DD0BD-B717-407A-835F-097F3327E5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802DD0BD-B717-407A-835F-097F3327E5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAF491BA-ACD4-4F3C-8E99-7A92529B8016}
+	EndGlobalSection
+EndGlobal
